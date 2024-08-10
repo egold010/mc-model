@@ -1,2 +1,2 @@
 # mc-model
-We aim to create a foundation model for computer vision applications in Minecraft.
+We aim to create a foundational computer vision model for general purpose use in autonomous navigation in Minecraft.
